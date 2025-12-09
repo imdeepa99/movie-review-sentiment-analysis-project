@@ -2,7 +2,6 @@
 venv/
 
 # --- Data files ---
-dataset/
 *.csv
 
 # --- IDE / Editor stuff ---
